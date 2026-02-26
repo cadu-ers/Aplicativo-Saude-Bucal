@@ -1,0 +1,152 @@
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\App Saúde Bucal\bin\Debug\App Saúde Bucal.exe.config
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\App Saúde Bucal\bin\Debug\App Saúde Bucal.exe
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\App Saúde Bucal\bin\Debug\App Saúde Bucal.pdb
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\App Saúde Bucal\obj\Debug\App Saúde Bucal.csproj.AssemblyReference.cache
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Properties.Resources.resources
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_Inicial.resources
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_Topicos.resources
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\App Saúde Bucal\obj\Debug\App Saúde Bucal.csproj.GenerateResource.cache
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\App Saúde Bucal\obj\Debug\App Saúde Bucal.csproj.CoreCompileInputs.cache
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\App Saúde Bucal\obj\Debug\App Saúde Bucal.exe
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\App Saúde Bucal\obj\Debug\App Saúde Bucal.pdb
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_Sobre.resources
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_Prevencao.resources
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_MelhorEscova.resources
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_CremeDental.resources
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_UsoFioDental.resources
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_ComoSaberSeEstou.resources
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_MetodoEscovacao.resources
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_Creditos.resources
+D:\App Saúde Bucal\App Saúde Bucal\bin\Debug\App Saúde Bucal.exe.config
+D:\App Saúde Bucal\App Saúde Bucal\bin\Debug\App Saúde Bucal.exe
+D:\App Saúde Bucal\App Saúde Bucal\bin\Debug\App Saúde Bucal.pdb
+D:\App Saúde Bucal\App Saúde Bucal\obj\Debug\App Saúde Bucal.csproj.AssemblyReference.cache
+D:\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Properties.Resources.resources
+D:\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_ComoSaberSeEstou.resources
+D:\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_Creditos.resources
+D:\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_CremeDental.resources
+D:\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_Inicial.resources
+D:\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_MelhorEscova.resources
+D:\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_MetodoEscovacao.resources
+D:\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_Prevencao.resources
+D:\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_Sobre.resources
+D:\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_Topicos.resources
+D:\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_UsoFioDental.resources
+D:\App Saúde Bucal\App Saúde Bucal\obj\Debug\App Saúde Bucal.csproj.GenerateResource.cache
+D:\App Saúde Bucal\App Saúde Bucal\obj\Debug\App Saúde Bucal.csproj.CoreCompileInputs.cache
+D:\App Saúde Bucal\App Saúde Bucal\obj\Debug\App Saúde Bucal.exe
+D:\App Saúde Bucal\App Saúde Bucal\obj\Debug\App Saúde Bucal.pdb
+C:\Users\Murilo Moretto\Downloads\App Saúde Bucal\App Saúde Bucal\bin\Debug\App Saúde Bucal.exe.config
+C:\Users\Murilo Moretto\Downloads\App Saúde Bucal\App Saúde Bucal\bin\Debug\App Saúde Bucal.exe
+C:\Users\Murilo Moretto\Downloads\App Saúde Bucal\App Saúde Bucal\bin\Debug\App Saúde Bucal.pdb
+C:\Users\Murilo Moretto\Downloads\App Saúde Bucal\App Saúde Bucal\obj\Debug\App Saúde Bucal.csproj.AssemblyReference.cache
+C:\Users\Murilo Moretto\Downloads\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Properties.Resources.resources
+C:\Users\Murilo Moretto\Downloads\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_ComoSaberSeEstou.resources
+C:\Users\Murilo Moretto\Downloads\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_Creditos.resources
+C:\Users\Murilo Moretto\Downloads\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_CremeDental.resources
+C:\Users\Murilo Moretto\Downloads\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_Inicial.resources
+C:\Users\Murilo Moretto\Downloads\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_MelhorEscova.resources
+C:\Users\Murilo Moretto\Downloads\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_MetodoEscovacao.resources
+C:\Users\Murilo Moretto\Downloads\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_Prevencao.resources
+C:\Users\Murilo Moretto\Downloads\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_Sobre.resources
+C:\Users\Murilo Moretto\Downloads\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_Topicos.resources
+C:\Users\Murilo Moretto\Downloads\App Saúde Bucal\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_UsoFioDental.resources
+C:\Users\Murilo Moretto\Downloads\App Saúde Bucal\App Saúde Bucal\obj\Debug\App Saúde Bucal.csproj.GenerateResource.cache
+C:\Users\Murilo Moretto\Downloads\App Saúde Bucal\App Saúde Bucal\obj\Debug\App Saúde Bucal.csproj.CoreCompileInputs.cache
+C:\Users\Murilo Moretto\Downloads\App Saúde Bucal\App Saúde Bucal\obj\Debug\App Saúde Bucal.exe
+C:\Users\Murilo Moretto\Downloads\App Saúde Bucal\App Saúde Bucal\obj\Debug\App Saúde Bucal.pdb
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\bin\Debug\App Saúde Bucal.exe.config
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\bin\Debug\App Saúde Bucal.exe
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\bin\Debug\App Saúde Bucal.pdb
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\obj\Debug\App Saúde Bucal.csproj.AssemblyReference.cache
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Properties.Resources.resources
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_ComoSaberSeEstou.resources
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_Creditos.resources
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_CremeDental.resources
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_Inicial.resources
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_MelhorEscova.resources
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_MetodoEscovacao.resources
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_Prevencao.resources
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_Sobre.resources
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_Topicos.resources
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_UsoFioDental.resources
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\obj\Debug\App Saúde Bucal.csproj.GenerateResource.cache
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\obj\Debug\App Saúde Bucal.csproj.CoreCompileInputs.cache
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\obj\Debug\App Saúde Bucal.exe
+C:\Users\Murilo Moretto\Desktop\App Saúde Bucal\obj\Debug\App Saúde Bucal.pdb
+C:\Users\daniel\Desktop\dia 04\App Saúde Bucal\bin\Debug\App Saúde Bucal.exe.config
+C:\Users\daniel\Desktop\dia 04\App Saúde Bucal\bin\Debug\App Saúde Bucal.exe
+C:\Users\daniel\Desktop\dia 04\App Saúde Bucal\bin\Debug\App Saúde Bucal.pdb
+C:\Users\daniel\Desktop\dia 04\App Saúde Bucal\obj\Debug\App Saúde Bucal.csproj.AssemblyReference.cache
+C:\Users\daniel\Desktop\dia 04\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Properties.Resources.resources
+C:\Users\daniel\Desktop\dia 04\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_ComoSaberSeEstou.resources
+C:\Users\daniel\Desktop\dia 04\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_Creditos.resources
+C:\Users\daniel\Desktop\dia 04\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_CremeDental.resources
+C:\Users\daniel\Desktop\dia 04\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_Inicial.resources
+C:\Users\daniel\Desktop\dia 04\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_MelhorEscova.resources
+C:\Users\daniel\Desktop\dia 04\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_MetodoEscovacao.resources
+C:\Users\daniel\Desktop\dia 04\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_Prevencao.resources
+C:\Users\daniel\Desktop\dia 04\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_Sobre.resources
+C:\Users\daniel\Desktop\dia 04\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_Topicos.resources
+C:\Users\daniel\Desktop\dia 04\App Saúde Bucal\obj\Debug\App_Saúde_Bucal.Tela_UsoFioDental.resources
+C:\Users\daniel\Desktop\dia 04\App Saúde Bucal\obj\Debug\App Saúde Bucal.csproj.GenerateResource.cache
+C:\Users\daniel\Desktop\dia 04\App Saúde Bucal\obj\Debug\App Saúde Bucal.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Desktop\dia 04\App Saúde Bucal\obj\Debug\App Saúde Bucal.exe
+C:\Users\daniel\Desktop\dia 04\App Saúde Bucal\obj\Debug\App Saúde Bucal.pdb
+C:\Users\daniel\Desktop\dia 04\app 4.0\bin\Debug\App Saúde Bucal.exe.config
+C:\Users\daniel\Desktop\dia 04\app 4.0\bin\Debug\App Saúde Bucal.exe
+C:\Users\daniel\Desktop\dia 04\app 4.0\bin\Debug\App Saúde Bucal.pdb
+C:\Users\daniel\Desktop\dia 04\app 4.0\obj\Debug\App Saúde Bucal.csproj.AssemblyReference.cache
+C:\Users\daniel\Desktop\dia 04\app 4.0\obj\Debug\App_Saúde_Bucal.Properties.Resources.resources
+C:\Users\daniel\Desktop\dia 04\app 4.0\obj\Debug\App_Saúde_Bucal.Tela_ComoSaberSeEstou.resources
+C:\Users\daniel\Desktop\dia 04\app 4.0\obj\Debug\App_Saúde_Bucal.Tela_Creditos.resources
+C:\Users\daniel\Desktop\dia 04\app 4.0\obj\Debug\App_Saúde_Bucal.Tela_CremeDental.resources
+C:\Users\daniel\Desktop\dia 04\app 4.0\obj\Debug\App_Saúde_Bucal.Tela_Inicial.resources
+C:\Users\daniel\Desktop\dia 04\app 4.0\obj\Debug\App_Saúde_Bucal.Tela_MelhorEscova.resources
+C:\Users\daniel\Desktop\dia 04\app 4.0\obj\Debug\App_Saúde_Bucal.Tela_MetodoEscovacao.resources
+C:\Users\daniel\Desktop\dia 04\app 4.0\obj\Debug\App_Saúde_Bucal.Tela_Prevencao.resources
+C:\Users\daniel\Desktop\dia 04\app 4.0\obj\Debug\App_Saúde_Bucal.Tela_Sobre.resources
+C:\Users\daniel\Desktop\dia 04\app 4.0\obj\Debug\App_Saúde_Bucal.Tela_Topicos.resources
+C:\Users\daniel\Desktop\dia 04\app 4.0\obj\Debug\App_Saúde_Bucal.Tela_UsoFioDental.resources
+C:\Users\daniel\Desktop\dia 04\app 4.0\obj\Debug\App Saúde Bucal.csproj.GenerateResource.cache
+C:\Users\daniel\Desktop\dia 04\app 4.0\obj\Debug\App Saúde Bucal.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Desktop\dia 04\app 4.0\obj\Debug\App Saúde Bucal.exe
+C:\Users\daniel\Desktop\dia 04\app 4.0\obj\Debug\App Saúde Bucal.pdb
+C:\Users\daniel\Desktop\dia 04\app6.0\bin\Debug\App Saúde Bucal.exe.config
+C:\Users\daniel\Desktop\dia 04\app6.0\bin\Debug\App Saúde Bucal.exe
+C:\Users\daniel\Desktop\dia 04\app6.0\bin\Debug\App Saúde Bucal.pdb
+C:\Users\daniel\Desktop\dia 04\app6.0\obj\Debug\App Saúde Bucal.csproj.AssemblyReference.cache
+C:\Users\daniel\Desktop\dia 04\app6.0\obj\Debug\App_Saúde_Bucal.Properties.Resources.resources
+C:\Users\daniel\Desktop\dia 04\app6.0\obj\Debug\App_Saúde_Bucal.Tela_ComoSaberSeEstou.resources
+C:\Users\daniel\Desktop\dia 04\app6.0\obj\Debug\App_Saúde_Bucal.Tela_Creditos.resources
+C:\Users\daniel\Desktop\dia 04\app6.0\obj\Debug\App_Saúde_Bucal.Tela_CremeDental.resources
+C:\Users\daniel\Desktop\dia 04\app6.0\obj\Debug\App_Saúde_Bucal.Tela_Inicial.resources
+C:\Users\daniel\Desktop\dia 04\app6.0\obj\Debug\App_Saúde_Bucal.Tela_MelhorEscova.resources
+C:\Users\daniel\Desktop\dia 04\app6.0\obj\Debug\App_Saúde_Bucal.Tela_MetodoEscovacao.resources
+C:\Users\daniel\Desktop\dia 04\app6.0\obj\Debug\App_Saúde_Bucal.Tela_Prevencao.resources
+C:\Users\daniel\Desktop\dia 04\app6.0\obj\Debug\App_Saúde_Bucal.Tela_Sobre.resources
+C:\Users\daniel\Desktop\dia 04\app6.0\obj\Debug\App_Saúde_Bucal.Tela_Topicos.resources
+C:\Users\daniel\Desktop\dia 04\app6.0\obj\Debug\App_Saúde_Bucal.Tela_UsoFioDental.resources
+C:\Users\daniel\Desktop\dia 04\app6.0\obj\Debug\App Saúde Bucal.csproj.GenerateResource.cache
+C:\Users\daniel\Desktop\dia 04\app6.0\obj\Debug\App Saúde Bucal.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Desktop\dia 04\app6.0\obj\Debug\App Saúde Bucal.exe
+C:\Users\daniel\Desktop\dia 04\app6.0\obj\Debug\App Saúde Bucal.pdb
+C:\Users\Murilo Moretto\Desktop\app6.0\bin\Debug\App Saúde Bucal.exe.config
+C:\Users\Murilo Moretto\Desktop\app6.0\bin\Debug\App Saúde Bucal.exe
+C:\Users\Murilo Moretto\Desktop\app6.0\bin\Debug\App Saúde Bucal.pdb
+C:\Users\Murilo Moretto\Desktop\app6.0\obj\Debug\App Saúde Bucal.csproj.AssemblyReference.cache
+C:\Users\Murilo Moretto\Desktop\app6.0\obj\Debug\App_Saúde_Bucal.Properties.Resources.resources
+C:\Users\Murilo Moretto\Desktop\app6.0\obj\Debug\App_Saúde_Bucal.Tela_ComoSaberSeEstou.resources
+C:\Users\Murilo Moretto\Desktop\app6.0\obj\Debug\App_Saúde_Bucal.Tela_Creditos.resources
+C:\Users\Murilo Moretto\Desktop\app6.0\obj\Debug\App_Saúde_Bucal.Tela_CremeDental.resources
+C:\Users\Murilo Moretto\Desktop\app6.0\obj\Debug\App_Saúde_Bucal.Tela_Inicial.resources
+C:\Users\Murilo Moretto\Desktop\app6.0\obj\Debug\App_Saúde_Bucal.Tela_MelhorEscova.resources
+C:\Users\Murilo Moretto\Desktop\app6.0\obj\Debug\App_Saúde_Bucal.Tela_MetodoEscovacao.resources
+C:\Users\Murilo Moretto\Desktop\app6.0\obj\Debug\App_Saúde_Bucal.Tela_Prevencao.resources
+C:\Users\Murilo Moretto\Desktop\app6.0\obj\Debug\App_Saúde_Bucal.Tela_Sobre.resources
+C:\Users\Murilo Moretto\Desktop\app6.0\obj\Debug\App_Saúde_Bucal.Tela_Topicos.resources
+C:\Users\Murilo Moretto\Desktop\app6.0\obj\Debug\App_Saúde_Bucal.Tela_UsoFioDental.resources
+C:\Users\Murilo Moretto\Desktop\app6.0\obj\Debug\App Saúde Bucal.csproj.GenerateResource.cache
+C:\Users\Murilo Moretto\Desktop\app6.0\obj\Debug\App Saúde Bucal.csproj.CoreCompileInputs.cache
+C:\Users\Murilo Moretto\Desktop\app6.0\obj\Debug\App Saúde Bucal.exe
+C:\Users\Murilo Moretto\Desktop\app6.0\obj\Debug\App Saúde Bucal.pdb
